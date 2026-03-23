@@ -1,0 +1,25 @@
+# Video output files
+*.avi
+
+# Model weights (large binary files)
+*.pth
+*.pt
+
+# 3D scan output
+*.obj
+
+# Log files
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+env/
