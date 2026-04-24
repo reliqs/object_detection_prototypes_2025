@@ -1,6 +1,8 @@
 # RealSense D455 Computer Vision Experiments
 
+<center>
 <img width="640" height="480" alt="segmentation_frame_20260423_174756" src="https://github.com/user-attachments/assets/a9194ba3-4e89-4add-9b18-dee12ceab89c" />
+</center>
 
 A collection of computer vision scripts for the Intel RealSense D455 depth camera, covering object detection, segmentation, activity recognition, predator-vision thermal overlays, and 3D scanning.
 
